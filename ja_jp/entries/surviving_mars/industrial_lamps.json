@@ -6,9 +6,9 @@
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Industrial Lamps",
+      "title": "工業用ランプ",
       "item": "ad_astra:small_blue_industrial_lamp",
-      "text": "Industrial lamps are available in all 16 colors, and in small and large sizes. By default, these will all emit normal white light; however, if you have $(l:https://modrinth.com/mod/shimmer!)Shimmer$(/l), each light will emit its respective color."
+      "text": "工業用ランプは16色で彩られたブロックで, 大きいものから小さいものまで存在します。デフォルトでは、ランプは白色にて発光しますが、もし$(l:https://modrinth.com/mod/shimmer!)Shimmer$(/l)が導入されている場合、ランプは対応した色に光ります。"
     },
     {
       "type": "patchouli:crafting",

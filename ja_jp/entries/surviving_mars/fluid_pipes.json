@@ -6,13 +6,13 @@
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Fluid Pipes",
+      "title": "液体パイプ",
       "item": "ad_astra:ostrum_fluid_pipe",
-      "text": "Fluid pipes are similar to cables but with fluid transfer instead of energy transfer. To use them, craft some fluid pipes and a wrench. Then, right-click on one of the pipes with the wrench to cycle through the pipe's modes: 'none,' 'normal,' 'insert,' and 'extract.'"
+      "text": "液体パイプは、ケーブルと似た性質を持つ液体を移動させられるパイプです。使うには、液体パイプとレンチをクラフトし、レンチで右クリックしモードを'なし,' '通常,' '注入,' and '排出.'から選んでください。"
     },
     {
       "type": "patchouli:crafting",
-      "text": "Pipes with 'insert' set will receive fluid from the network, while pipes with 'extract' set will pump fluid into the network.",
+      "text": "'注入'にセットされたパイプはネットワークから液体を受け取る一方、'排出'のパイプはネットワークに液体を送ります。",
       "recipe": "ad_astra:desh_fluid_pipe"
     },
     {
@@ -23,7 +23,7 @@
     {
       "type": "patchouli:crafting",
       "recipe": "ad_astra:fluid_pipe_duct",
-      "text": "Like cables, fluid pipes also have a duct block for transfering fluids safely in and out of sealed structures."
+      "text": "ケーブルのように、液体パイプはダクトブロックを持ち、使用することによって密閉された空間の中安全に液体を移動させることができます。"
     }
   ]
 }

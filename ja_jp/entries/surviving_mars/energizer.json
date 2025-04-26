@@ -1,0 +1,18 @@
+{
+  "name": "電力供給機",
+  "icon": "ad_astra:energizer",
+  "sortnum": 5,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "電力供給機",
+      "item": "ad_astra:energizer",
+      "text": "電力供給機は、アイテムに電力を供給し、大量のエネルギーを蓄えることができる機械である。アイテムを充電するには、電力供給機に電力を供給し、そのアイテムで電力供給機を右クリックする。電力供給機は200万ものエネルギーを蓄えることができるため、非常に長い時間マシンを充電することができる。また、壊れてもエネルギーは保持される。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:energizer"
+    }
+  ]
+}

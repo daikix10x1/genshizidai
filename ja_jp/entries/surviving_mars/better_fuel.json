@@ -1,0 +1,28 @@
+{
+  "name": "より良い燃料",
+  "icon": "ad_astra:cryo_freezer",
+  "sortnum": 6,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "すっごい冷凍庫",
+      "item": "ad_astra:cryo_freezer",
+      "text": "燃料を手に入れるには、海に出て石油の噴出口を探さなければなりません。極低温冷凍庫は、より良い燃料を手に入れるための新しい方法、低温燃料を紹介します。低温燃料は精製された燃料よりもはるかに効率的で、バケツ1杯でロケットを打ち上げることができます。"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "冷たい惑星の地下に鉱石として存在する氷の欠片を集めて作ります。氷の破片をクライオ・フリーザーに入れると、25MBのクライオ燃料に変換されます。また、氷やパックアイス、ブルーアイスを燃料に変換することもできます。少なくとも2つのバケツ（1つは打ち上げ用、もう1つは帰還用）を作ったら、バケツをロケット燃料スロットに入れなければなりません。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:cryo_freezer"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "title": "低温燃料",
+      "item": "ad_astra:cryo_fuel_bucket",
+      "text": "優れた燃料であることに加え、低温にはいくつかの特徴があります。設置すると、溶岩のように中にあるものにダメージを与えます。また、水を凍らせるので、無限に氷を作ることができます。"
+    }
+  ]
+}

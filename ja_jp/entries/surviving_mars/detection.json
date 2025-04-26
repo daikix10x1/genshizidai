@@ -1,0 +1,18 @@
+{
+  "name": "探知",
+  "icon": "ad_astra:oxygen_sensor",
+  "sortnum": 7,
+  "category": "ad_astra:surviving_mars",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "title": "酸素センサー",
+      "item": "ad_astra:oxygen_sensor",
+      "text": "酸素センサーは、酸素を検知するとレッドストーン信号を発するブロックです。右クリックで信号を反転させることができる。その名前とは裏腹に、スパナで右クリックすることで検出タイプを変更することもできる。酸素、安全な温度、通常の重力を検知するオプションがある。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "ad_astra:oxygen_sensor"
+    }
+  ]
+}

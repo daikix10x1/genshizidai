@@ -6,15 +6,15 @@
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Globes",
+      "title": "惑星儀",
       "item": "ad_astra:earth_globe",
-      "text": "Globes are trophy blocks found as a reward at the end of a dungeon. Globes offer no practical function and are instead a decoration block. They can be spun around by right-clicking or can spin forever when powered by redstone. Only the Moon globe is obtainable in survival at the moment."
+      "text": "惑星儀はダンジョンの攻略の報酬の一つです。惑星儀はこれといった機能を提供せず、主に装飾ブロックとして使われます。右クリックで回すことができますが、レッドストーン信号を与えることで常に回すことができます。今の段階では、月の惑星儀だけがサバイバルで入手可能な惑星儀です。"
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Space Paintings",
+      "title": "宇宙画",
       "item": "ad_astra:space_painting",
-      "text": "Space paintings are found in chests throughout dungeons. They work exactly like regular paintings but only place paintings from this mod. There are 14 pieces to look for."
+      "text": "宇宙画はダンジョンの攻略の報酬の一つです。バニラの絵画と同じように働きますが、このMod唯一の絵画です。14個のバリエーションが存在します。"
     }
   ]
 }

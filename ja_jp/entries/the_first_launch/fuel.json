@@ -1,30 +1,30 @@
 {
-  "name": "Fuel",
+  "name": "燃料",
   "icon": "ad_astra:fuel_bucket",
   "sortnum": 4,
   "category": "ad_astra:the_first_launch",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "Even after you place your rocket, you will not be able to fly just yet. To fly, you will need to fill the rocket with fuel."
+      "text": "ロケットを設置しただけでは、飛行することはできません。(できるわけないだろアホ) 飛行を開始するには、燃料を供給する必要があります。"
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Obtaining Fuel",
+      "title": "燃料の確保",
       "item": "ad_astra:oil_bucket",
-      "text": "Oil is found in large amounts spouting over the ocean surface. Collect as much oil as you can, as oil is non-renewable, and you need a lot of it for each rocket launch."
+      "text": "石油は、海の表面に大量に浮く形でスポーンします。石油は無限資源ではないことと、飛行にて大量に消費されるため集められる限り集めることを推奨します。"
     },
     {
       "type": "patchouli:spotlight",
-      "title": "Obtaining Fuel",
+      "title": "燃料の確保",
       "item": "ad_astra:fuel_bucket",
-      "text": "After collecting enough oil (at least six buckets for a launch and return), you will need to refine the oil into fuel. To do this, you will need to craft a fuel refinery. Power it, then place the oil in the left slot, and it will be refined into fuel."
+      "text": "石油を持ち帰ったあとは(少なくとも飛行と帰還のためにバケツ6杯)、いよいよロケットに燃料を供給しましょう。燃料精錬機をつくり、燃料を左に設置すると、精錬が開始します。"
     },
     {
       "type": "patchouli:crafting",
-      "title": "Fuel Refinery",
+      "title": "燃料の精錬",
       "recipe": "ad_astra:fuel_refinery",
-      "text": "Shift-click on the rocket to open its inventory, then place three buckets of fuel into the input slot. Place the other three buckets into the rocket's inventory for a return trip."
+      "text": "シフト+クリックでロケットのインベントリを開き、3つの燃料バケツを設置してください。帰還時には同じように3つ燃料バケツを設置してください。"
     }
   ]
 }

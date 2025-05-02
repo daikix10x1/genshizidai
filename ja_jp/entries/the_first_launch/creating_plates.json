@@ -1,14 +1,14 @@
 {
-  "name": "Creating Plates",
+  "name": "プレートを作る",
   "icon": "ad_astra:compressor",
   "sortnum": 1,
   "category": "ad_astra:the_first_launch",
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Compressor",
+      "title": "圧縮機",
       "item": "ad_astra:compressor",
-      "text": "Once you've got energy, you'll want to craft a compressor. This machine can compress ingots and blocks into plates, which are needed to craft many things."
+      "text": "エネルギーを手に入れた次は、圧縮機を作るべきでしょう。この機械はブロック、またインゴットをプレートに延ばすことができ、様々なレシピに使われます。"
     },
     {
       "type": "patchouli:crafting",

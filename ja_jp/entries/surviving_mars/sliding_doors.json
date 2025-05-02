@@ -6,9 +6,9 @@
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Sliding Doors",
+      "title": "スライドドア",
       "item": "ad_astra:airlock",
-      "text": "Sliding doors are large 3x3 doors. They seal oxygen when closed, making them great candidates for airlocks. They can be locked by shift-right-clicking them with a wrench. Locked doors can only be opened with redstone."
+      "text": "スライドドアは3x3の大きなドアです。密閉時に空気を閉じ込めるため、エアロックを作るのに最適です。また、レンチで右クリックすることによりロックすることが可能です。閉じられたドアはレッドストーンにより開閉することが可能です。"
     },
     {
       "type": "patchouli:crafting",

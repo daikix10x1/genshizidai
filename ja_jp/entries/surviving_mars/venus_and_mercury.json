@@ -1,18 +1,19 @@
 {
-  "name": "Venus and Mercury",
+  "name": "金星と水星",
   "icon": "ad_astra:/textures/environment/venus.png",
   "sortnum": 8,
   "category": "ad_astra:surviving_mars",
   "pages": [
     {
       "type": "patchouli:spotlight",
-      "title": "Calorite",
+      "title": "カロライト",
       "item": "ad_astra:calorite_ingot",
-      "text": "Once you have enough Ostrum to craft a complete netherite space suit set and all of the components of the tier three rocket, you can travel to Venus and Mercury. Please note that if you enter these planets without a netherite space suit or fire resistance, you will die very fast. The next material that you seek is Calorite."
+      "text": "ネザライト宇宙服をフルセット作れるだけの十分な数のオストラムを集め、ティア3ロケットに要求されるすべての部品を集めれば、金星と水星に旅立つことができます。 ネザライト宇宙服、もしくは火炎耐性なしに降り立った場合、めっちゃ爆速で死にます。次集めるべき鉱石はカロライトです。"
     },
     {
       "type": "patchouli:text",
-      "text": "Calorite is used to craft the ultimate rocket capable of travelling to a new solar system."
+      "text": "カロライトは、次の惑星系へ旅立つためのロケットを作成するのに用いられます。"
+      
     }
   ]
 }
